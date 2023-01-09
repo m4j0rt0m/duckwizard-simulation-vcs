@@ -1,2 +1,1 @@
-# duckwizard-simulation-vcs
-duckWizard: Simulation with Synopsys VCS
+# duckWizard: Simulation with Synopsys VCS
